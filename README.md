@@ -21,11 +21,11 @@ React js: React is a JavaScript library for building client-side applications.
 **APPLICATION FLOW**   
 
 • Home Page: Users land on the home page, which provides an overview of the book store's offerings. From here, they can navigate to various sections of the app.<br>
-• Access Profile: Users have the option to access their profiles, allowing them to view or update personal information, preferences, and order history.
-• Book Selection: After accessing their profiles, users proceed to browse and select books to purchase. The app presents a list of available books, along with details such as title, author, genre, and price.
-• Book Purchase: Users navigate through the available book options and specify the quantity of each book they wish to purchase. They can also choose additional options such as e-book format or special editions.
-• View Orders: Users have the option to view their current and past orders. This section provides details about ordered books, order status, and payment history.
-• Order Confirmation: For new purchases, users can initiate the ordering process. This involves selecting books, specifying quantities, confirming the order, and receiving an order confirmation.
+• Access Profile: Users have the option to access their profiles, allowing them to view or update personal information, preferences, and order history.<br>
+• Book Selection: After accessing their profiles, users proceed to browse and select books to purchase. The app presents a list of available books, along with details such as title, author, genre, and price.<br>
+• Book Purchase: Users navigate through the available book options and specify the quantity of each book they wish to purchase. They can also choose additional options such as e-book format or special editions.<br>
+• View Orders: Users have the option to view their current and past orders. This section provides details about ordered books, order status, and payment history.<br>
+• Order Confirmation: For new purchases, users can initiate the ordering process. This involves selecting books, specifying quantities, confirming the order, and receiving an order confirmation.<br>
 
 **ROLES** 
 
