@@ -32,6 +32,7 @@ End: The flow concludes as users have completed their desired actions within the
 **ROLES** 
 
 1. User:
+   
 • Registration: Users are responsible for registering an account on the BookEase book store app by providing essential details such as name, email, and password.
 • Profile Management: Users have the capability to manage their profiles, allowing them to update information like email, name, and password.
 • Book Browsing: Users can browse through the available books, explore different genres, and search for specific titles or authors.
@@ -40,6 +41,7 @@ End: The flow concludes as users have completed their desired actions within the
 • Logout: Lastly, they can logout from the BookEase book store app.
 
 2.Seller:
+
 • Registration: Sellers register an account on the BookEase book store app by providing necessary details such as business name, email, and password.
 • Profile Management: Sellers have the capability to manage their profiles, allowing them to update information like email, business name, and password.
 • Book Listing: Sellers can add new books to the platform, including details such as title, author, genre, description, price, and quantity available.
