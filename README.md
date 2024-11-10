@@ -20,7 +20,7 @@ React js: React is a JavaScript library for building client-side applications.
 
 **APPLICATION FLOW**   
 
-• Home Page: Users land on the home page, which provides an overview of the book store's offerings. From here, they can navigate to various sections of the app.
+• Home Page: Users land on the home page, which provides an overview of the book store's offerings. From here, they can navigate to various sections of the app.__
 • Access Profile: Users have the option to access their profiles, allowing them to view or update personal information, preferences, and order history.
 • Book Selection: After accessing their profiles, users proceed to browse and select books to purchase. The app presents a list of available books, along with details such as title, author, genre, and price.
 • Book Purchase: Users navigate through the available book options and specify the quantity of each book they wish to purchase. They can also choose additional options such as e-book format or special editions.
