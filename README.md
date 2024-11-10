@@ -5,16 +5,15 @@
 To develop a full-stack Book Store App using React js, Node.js,Express js and MongoDB, there are several prerequisites you should consider. Here are the key prerequisites for developing such an application: 
 
 Node.js and npm: Install Node.js, which includes npm (Node Package Manager), on your development machine. Node.js is required to run JavaScript on the server side. <br>
-• Download: https://nodejs.org/en/download/ 
+• Download: https://nodejs.org/en/download/ <br>
 • Installation instructions:https://nodejs.org/en/download/package-manager/
 
 MongoDB: Set up a MongoDB database to store hotel and booking information. Install MongoDB locally or use a cloud-based MongoDB service. <br>
-• Download: https://www.mongodb.com/try/download/community  
+• Download: https://www.mongodb.com/try/download/community  <br>
 • Installation instructions:https://docs.mongodb.com/manual/installation/ 
 
-Express.js: Express.js is a web application framework for Node.js. Install Express.js to handle server-side routing, middleware, and API development. 
-• Installation: Open your command prompt or terminal and run the following
-command: npm install express 
+Express.js: Express.js is a web application framework for Node.js. Install Express.js to handle server-side routing, middleware, and API development. <br>
+• Installation: Open your command prompt or terminal and run the following command: npm install express 
 
 React js: React is a JavaScript library for building client-side applications. 
 
