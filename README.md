@@ -1,5 +1,8 @@
 **BOOK STORE**
-**PRE REQUISITES**                                                                                                                                                To develop a full-stack Book Store App using React js, Node.js,Express js and MongoDB, there are several prerequisites you should consider. Here are the key prerequisites for developing such an application: 
+
+**PRE REQUISITES**  
+
+To develop a full-stack Book Store App using React js, Node.js,Express js and MongoDB, there are several prerequisites you should consider. Here are the key prerequisites for developing such an application: 
 
 Node.js and npm: Install Node.js, which includes npm (Node Package Manager), on your development machine. Node.js is required to run JavaScript on the server side. 
 • Download: https://nodejs.org/en/download/ 
@@ -15,7 +18,8 @@ command: npm install express
 
 React js: React is a JavaScript library for building client-side applications. 
 
-**APPLICATION FLOW**                                                                                                                                          
+**APPLICATION FLOW**   
+
 Start: Users open the BookEase app to explore a vast collection of books.
 Home Page: Users land on the home page, which provides an overview of the book store's offerings. From here, they can navigate to various sections of the app.
 Access Profile: Users have the option to access their profiles, allowing them to view or update personal information, preferences, and order history.
@@ -25,7 +29,9 @@ View Orders: Users have the option to view their current and past orders. This s
 Order Confirmation: For new purchases, users can initiate the ordering process. This involves selecting books, specifying quantities, confirming the order, and receiving an order confirmation.
 End: The flow concludes as users have completed their desired actions within the BookEase app
 
-**ROLES**                                                                                                                                                         1. User:
+**ROLES** 
+
+1. User:
 • Registration: Users are responsible for registering an account on the BookEase book store app by providing essential details such as name, email, and password.
 • Profile Management: Users have the capability to manage their profiles, allowing them to update information like email, name, and password.
 • Book Browsing: Users can browse through the available books, explore different genres, and search for specific titles or authors.
